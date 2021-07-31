@@ -1,0 +1,9 @@
+welcome
+
+hello
+
+this program when you play game and you dont have dice help you 
+
+work with this program its very easy just play it and for next round press n key 
+
+Good Luck
